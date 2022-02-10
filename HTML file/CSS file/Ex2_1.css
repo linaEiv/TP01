@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+.box{
+    background-color: rgb(29, 184, 132);
+    margin: 5px;
+    width: 97%;
+    text-align: center;
+    padding: 20px 0;
+ }

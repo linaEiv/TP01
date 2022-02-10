@@ -1,0 +1,19 @@
+.center{
+    border: 2px black;
+    width: 25%;
+    height: 30%;
+    background-color: rgb(231, 220, 220);
+    position: fixed;
+    padding: center;
+    padding-top: 150px;
+    padding-left: 130px;
+
+}
+.flying_box{
+    border: 1px black;
+    width: 10%;
+    height: 10%;
+    background-color: rgb(176, 233, 101);
+    position: fixed;
+    padding-left: 50px;
+}
